@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! My name is Hollie Wyrick and I am a Cybersecurity student at the University of North Texas.
+My pronouns are she/her
+
+I am currently learning all about different areas of cybersecurity, such as risk management, linux command line tools, coding in C and python, virtual machines, and I am always expanding my knowledge in various subjects the internet has to offer!
+
+Currently I am looking for new projects to be passionate about.
+
+You can reach me via email: holliewyrick05@gmail.com
+
+Fun fact: My favorite hobby in my free time is dancing! I've been dancing for fun for a few years ago, and I have been on several different dance teams and met so many fun people!
