@@ -23,4 +23,4 @@ Currently I am looking for new projects to be passionate about.
 
 You can reach me via email: holliewyrick05@gmail.com
 
-Fun fact: My favorite hobby in my free time is dancing! I've been dancing for fun for a few years ago, and I have been on several different dance teams and met so many fun people!
+Fun fact: My favorite hobby in my free time is dancing! I've been dancing for fun for a few years, and I have been on several different dance teams and met so many fun people!
